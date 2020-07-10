@@ -9,4 +9,4 @@ Run the app on your local device using [http-server](https://www.npmjs.com/packa
 
 # Deployment
 
-The app is deployed on []() using Netlify. See Lastpass for credentials to access Netlify.
+The app is deployed on [https://sa-1on1.netlify.app/](https://sa-1on1.netlify.app/) using Netlify. See Lastpass for credentials to access Netlify. Any push to master will automatically trigger a deploy.
